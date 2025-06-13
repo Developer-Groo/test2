@@ -1,7 +1,7 @@
 ---
 name: "📝 일반 이슈"
 about: "기능 개발, 버그 수정, 스타일 변경 등 모든 작업 이슈에 사용"
-title: "[Feature] 로그인 기능 구현"
+title: "[Bug] 로그인 기능 구현"
 labels: ""
 assignees: ""
 ---
