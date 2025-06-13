@@ -1,10 +1,9 @@
 ---
-name: 📝 일반 이슈
-about: 기능 개발, 버그 수정, 스타일 변경 등 모든 작업 이슈에 사용
-title: '[Feature] 로그인 기능 구현' 또는 '[Bug] 로그인 시 500 오류 발생'
-labels: ''
-assignees: ''
-
+name: "📝 일반 이슈"
+about: "기능 개발, 버그 수정, 스타일 변경 등 모든 작업 이슈에 사용"
+title: "[Feature] 로그인 기능 구현"
+labels: ""
+assignees: ""
 ---
 
 ## 📌 이슈 종류
