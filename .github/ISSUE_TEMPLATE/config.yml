@@ -1,0 +1,6 @@
+# .github/ISSUE_TEMPLATE/config.yml
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 브랜치 전략 보기
+    url: https://github.com/your-org/your-repo/wiki/Team-Branch-Strategy
+    about: 브랜치 전략이 궁금하다면 이 문서를 참고하세요.
